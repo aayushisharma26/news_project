@@ -1,0 +1,24 @@
+@media (min-width: 1400px) {
+    .container {
+        max-width: 910px;
+    }
+  }
+  
+  .container, .container-fluid {
+    padding: 0px;
+    padding-bottom: 100px;
+  
+  
+  }
+  
+*{
+    margin: 0px;
+  }
+.img-fluid{
+    display: flex;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    /* border: 3px solid palevioletred; */
+}
